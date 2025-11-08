@@ -10,11 +10,7 @@ function App() {
     <>
     <h1>Hii Deep </h1>
     <Chai/> 
-    <p>Hello Deep</p>
-    
-    
-    
-    
+    <p>Hello Deep</p> 
     </>
    
   )
