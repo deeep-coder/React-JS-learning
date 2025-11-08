@@ -28,7 +28,8 @@ function App() {
     <button onClick={addValue}>Add Value {count}</button>
     <br/>
     <br/>
-    <button onClick={removeValue}>Remove value {count}</button>
+    <br/>
+    <button onClick={removeValue}>Remove value {count}</button> 
     </>
   )
 }
